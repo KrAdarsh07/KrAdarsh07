@@ -35,7 +35,7 @@ Git, GitHub, VS Code, IntelliJ, AWS Basics
 ---
 
 ## 🌍 Connect With Me
-- 📧 Email: **your_email@example.com**  
+- 📧 Email: **adarsh.kumar.dev.2023@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/adarsh-kumar](https://www.linkedin.com/in/adarsh-kumar-3b15902b7/)
 - 🐙 GitHub: [github.com/KrAdarsh07](https://github.com/KrAdarsh07)  
 
