@@ -30,7 +30,10 @@ Git, GitHub, VS Code, IntelliJ, AWS Basics
 ## 📌 Projects
 - 🕒 **Digital Clock with Alarm (C)** – Functional system project in C  
 - 📊 **Student Grade Tracker (C)** – Tracks and analyzes student performance  
-- 🌐 **Mentor-Mentee Communication Web App** – Team project, backend role  
+- 🌐 **### Projects
+- [Mentor-Mentee Communication App(https://github.com/<team-repo-link>)  
+  *A collaborative project built with a team of 4. My role: Backend Development.*
+
 
 ---
 
