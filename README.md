@@ -30,8 +30,7 @@ Git, GitHub, VS Code, IntelliJ, AWS Basics
 ## 📌 Projects
 - 🕒 **Digital Clock with Alarm (C)** – Functional system project in C  
 - 📊 **Student Grade Tracker (C)** – Tracks and analyzes student performance  
-- 🌐 ### Projects
-- [Mentor-Mentee Communication App](https://github.com/Omine8/MentorKonnect)  
+- 🌐 [Mentor-Mentee Communication App](https://github.com/Omine8/MentorKonnect)  
   *A collaborative project built with a team of 3. My role: Backend Development.*
 
 
